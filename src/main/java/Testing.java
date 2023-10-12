@@ -6,7 +6,7 @@ public class Testing {
 		int a=1;
 		int b=4
 		int c=a+b;
-		System..println(c);
+		System.out.println(c);
 
 	}
 
